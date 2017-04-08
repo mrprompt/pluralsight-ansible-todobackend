@@ -5,5 +5,5 @@ venv
 *.pyc
 
 # Ignore SQLite database files
-*.sqlite
+*.sqlite3
 
